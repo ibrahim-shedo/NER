@@ -69,7 +69,7 @@ Barack Obama was the 44th President of the United States and was born in Hawaii.
 - Integrate with external APIs for broader information retrieval.
 
 ## Contributors
-- **Your Name** - [your-email@example.com]
+- **Your Name** - [Ibrahim Shedoh.. ibrezma.shado@gmail.com ]
 
 ## License
 This project is licensed under the **MIT License**. See `LICENSE` for details.
